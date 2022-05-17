@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This project is an assignment on Coursera Capstone
+# Data Science Capstone Project
+This project is a Data Science project
